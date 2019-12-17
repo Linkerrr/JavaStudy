@@ -1,0 +1,20 @@
+package test;
+
+public class Test {
+
+	public static void main(String[] args) {
+		System.out.println("hello world");
+		
+		int i = 0;
+		i = 1;
+		System.out.println(i);
+		
+		i = 45;
+		String str = "ab";
+		
+		String s1 = str+i;
+		System.out.println(s1);
+
+	}
+
+}

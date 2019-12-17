@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\Anything\Experiment\Java\QiuZhiTang\.metadata\.plugins\org.eclipse.jdt.core
+2943967706.index
+3072807028.index
