@@ -20,6 +20,12 @@
   </component>
   <component name="ProjectId" id="1VYVsjXfwM37kYkXc0vzv7E5tzd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test002" />
+      <recent name="test001" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -64,7 +70,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
